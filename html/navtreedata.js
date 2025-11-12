@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "calculator doc test doxy", "index.html", [
+    [ "Getting Started", "md_calculator-doc-test-doxy_2doc_2getting-started.html", null ],
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", "namespaces_dup" ]
     ] ],
